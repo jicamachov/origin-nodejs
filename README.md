@@ -1,6 +1,4 @@
-# origin-nodejs
-Access-Control-Allow-Origin
-
+# Access-Control-Allow-Origin
 
 app.use(function (req, res, next) {
 
